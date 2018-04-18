@@ -11,7 +11,7 @@ Ablauf
     *  [LCD 20x4 Bricklet](https://www.tinkerforge.com/de/doc/Hardware/Bricklets/LCD_20x4.html#lcd-20x4-bricklet)
     *  [Multitouch Bricklet mit Key Pad 3x4](https://www.tinkerforge.com/de/doc/Hardware/Bricklets/Multi_Touch.html)
     *  [Brick Viewer](https://www.tinkerforge.com/de/doc/Software/Brickv.html)
-    *  [Brick Daemon (nur das es in gibt)](https://www.tinkerforge.com/de/doc/Software/Brickd.html)
+    *  [Brick Daemon (nur das es ihn gibt)](https://www.tinkerforge.com/de/doc/Software/Brickd.html)
 
 1. Die Kinder stecken die Teile zusammen, schließen es per USB an den Pi an und erkunden den Brick Viewer
 
